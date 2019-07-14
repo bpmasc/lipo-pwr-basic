@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\User\Desktop\GIT\lipo-pwr-basic\hardware\kicad\lipo_pwr_basic\lipo_pwr_basic.sch)
-    (date "28/04/2019 11:04:33")
+    (date "01/06/2019 07:48:37")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
